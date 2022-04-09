@@ -20,25 +20,3 @@ job:
           region: "eu"
         env:
           HD_CONFIG_ENV_URL: ${{secrets.CONFIG_ENV_URL}}
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-       
-
-  
-  
-   
-  
-
